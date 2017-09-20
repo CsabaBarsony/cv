@@ -1,0 +1,47 @@
+Personal details
+----------------
+Address: Boros József Str. 21/A 6724 Szeged, Hungary
+Tel.: +36 70 333 6227
+E-mail: csaba.barsony@gmail.com
+
+Professional experience
+-----------------------
+2017 TruckIn Hungary Kft.
+	Front-end web developer
+	- Developing user interface for freight managing website with ReactJS and Redux
+	
+2015-2017 EPAM Systems Szeged, Hungary
+	Software developer
+	- Implementing web-based front-end user interfaces for a worldwide known hotel booking site. Using modern JavaScript frameworks for designing components like AngularJS, jQuery for better usability and accessibility
+	- Developing code with version control system (Git), using task runner to automatize tasks like CSS generation, unit and integration testing (Sass, Jasmine)
+	- Contacting customers from different countries in English language, in written and oral on Skype
+	
+2013-2015 Digital Ltd. Szeged, Hungary
+	Software developer
+	- Developing the user interface of a GPS and map based tracking web application with ReactJS, Flux, OpenStreetMap and Leaflet frameworks
+	- Implementing Windows desktop applications with .NET, WinForms and C# for creating test scenarios and for visualizing the gathered real-world data (using PostgreSQL, NHibernate) to help the development of the tracking web application with Visual Studio (coding, unit testing), GMap.NET and Git
+	
+2010-2011 BKMÖ Children’s home Baja, Hungary
+	Technician
+	
+2008-2009 Brúnó-ép Kft., Baja, Hungary
+	Surveyor
+
+2006-2007 Égáz-Dégáz Zrt.
+	Administrator
+	
+2005-2006 NN Group
+	Sales assistant
+	
+Education
+---------
+2014- University of Szeged
+	Software information technology
+	
+1995-2000 MNÁMK Secondary school
+
+Language skills
+---------------
+Hungarian Native speaker
+English Very good command
+German Good working knowledge

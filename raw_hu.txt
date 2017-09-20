@@ -1,0 +1,46 @@
+Személyes adatok
+----------------
+Cím: Boros József utca 21/A 6724 Szeged
+Tel.: +36 70 3336227
+E-mail: csaba.barsony@gmail.com
+
+Szakmai tapasztalat
+-------------------
+2017 TruckIn Hungary Kft., Budapest
+	Front-end web fejlesztõ
+	- Felhasználói felület fejlesztése szállítmányozó weboldal számára ReactJS és Redux keretrendszerekkel
+	
+2015-2017 EPAM Systems, Szeged
+	Szoftver fejlesztõ
+	- Webes felhasználói felület fejlesztése világszerte ismert szobafoglaló weboldal számára AngularJS, jQuery keretrendszerekkel
+	- Szoftverfejlesztés verziókezelõ rendszer (Git), automatizáló eszközök (Grunt, Gulp), unit és integrációs tesztek (Sass, Jasmine) használatával
+	- Kapcsolattartás ügyfelekkel angol nyelven a világ minden részérõl írásban és szóban
+	
+2013-2015 Digital Ltd., Szeged
+	Szoftver fejlesztõ
+	- Felhasználói felület fejlesztése GPS és térkép alapú futár követõ weboldal számára ReactJS, Flux, OpenStreetMap és Leaflet keretrendszerekkel
+	- .NET/C# alkalmazások fejlesztése futár követés tesztelésére, adatgyûjtésre és adat megjelenítésre
+	
+2010-2011 BKMÖ Gyermekotthon, Baja
+	Technikus
+	
+2008-2009 Brúnó-ép Kft., Baja
+	Geodéta
+
+2006-2007 Égáz-Dégáz Zrt.
+	Adminisztrátor
+	
+2005-2006 NN Group
+	Értékesítõ
+	
+Tanulmányok
+-----------
+2014- Szegedi Tudományegyetem
+	Programtervezõ informatikus
+	
+1995-2000 MNÁMK Középiskola
+
+Nyelvismeret
+---------------
+Angol Tárgyalási szint
+Német Társalgási szint
